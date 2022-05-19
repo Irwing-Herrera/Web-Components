@@ -1,0 +1,22 @@
+button {
+  padding: 1rem 2rem;
+  background-color: #383539;
+  color: aliceblue;
+  border: 1px solid transparent;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #767377;
+  border: 1px solid #767377;
+}
+
+button:active {
+  background-color: #262528;
+  border: 1px solid #262528;
+}
+
+button:disabled {
+  background-color: #aaa3ad;
+  border: 1px solid #aaa3ad;
+}
